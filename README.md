@@ -1,7 +1,12 @@
 backbone
+
 twitter bootstrap
+
 underscore
+
 nodejs
+
 mongodb
 
-based on the sample provided by ccoeraets/backbone-cellar 
+
+based on [this sample](https://github.com/ccoenraets/backbone-cellar) provided by ccoeraets
